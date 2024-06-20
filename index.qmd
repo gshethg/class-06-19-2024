@@ -1,0 +1,14 @@
+---
+title: "ClassWork_6_19"
+author: "Gitanjali Sheth"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+
+library(tidyverse)
+```
+
